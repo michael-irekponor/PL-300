@@ -1,1 +1,2 @@
-Learning git and github
+Learning git and GitHub
+Importance of GitHub
